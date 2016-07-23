@@ -14,4 +14,4 @@ git push -u origin master
 github中的项目同步更新至你本地目录你需要用到git fetch
 
 
-具体的git指令，可自行查看帮助（help）
+具体的git指令，可自行查看帮助（help）ddddddd
